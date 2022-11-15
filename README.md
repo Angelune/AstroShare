@@ -13,7 +13,7 @@ git clone git@github.com:Angelune/AstroShare.git
 2. Installer les dépendances :
 
 ```sh
-cd projet-2022-weinreich-rondeau-gr3
+cd AstroShare
 npm ci
 ```
 
