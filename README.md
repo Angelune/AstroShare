@@ -7,7 +7,7 @@ Installation :
 1. Cloner le repo :
 
 ```sh
-git clone git@github.com:ensc-mobi/projet-2022-weinreich-rondeau-gr3.git
+git clone git@github.com:Angelune/AstroShare.git
 ```
 
 2. Installer les dépendences :
@@ -22,3 +22,7 @@ npm ci
 ```sh
 npm start
 ```
+
+Auteurs:
+Clément Weinreich
+Angéline Rondeau
